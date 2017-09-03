@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.826 seconds
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Учеба\3 курс\2 Семестр\Checks\Checks\Checks_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.749315 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2248 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.836372 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.464697 ms (FindLiveObjects: 0.047325 ms CreateObjectMapping: 0.041053 ms MarkObjects: 0.355222 ms  DeleteObjects: 0.019956 ms)
+
